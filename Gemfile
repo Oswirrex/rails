@@ -54,5 +54,11 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'haml'
-gem 'bootstrap-sass', '~> 2.3.2.0'
+gem 'jquery-rails'
+gem 'popper_js', '~> 1.14.5'
+gem 'bootstrap', '~> 4.3.1'
 gem 'simple_form'
+gem 'bootstrap-datepicker-rails'
+gem 'font-awesome-rails'
+gem 'devise'
+

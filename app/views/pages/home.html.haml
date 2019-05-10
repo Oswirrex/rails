@@ -1,0 +1,6 @@
+.container.my-5
+	.row
+		.col-12
+			#task-list
+				= render partial: 'tasks/task_list', locals: {tasks: @tasks}
+#modal.modal.fade

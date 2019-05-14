@@ -61,4 +61,5 @@ gem 'simple_form'
 gem 'bootstrap-datepicker-rails'
 gem 'font-awesome-rails'
 gem 'devise'
+gem 'cancan'
 
